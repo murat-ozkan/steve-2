@@ -1,3 +1,14 @@
 .App {
   text-align: center;
 }
+.text-number,
+.array,
+.object,
+.counter {
+  padding: 10px;
+}
+
+.counter {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: x-large;
+}
